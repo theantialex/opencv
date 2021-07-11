@@ -1975,7 +1975,3 @@ else()
 endif()
 
 
-#
-# Include configuration override settings
-#
-include(cmake/vars/EnableModeVars.cmake)
